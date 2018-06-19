@@ -1,0 +1,1 @@
+[null,{"name":"MemberJoin","temp":"member","event-type":"6","actions":[{"channel":"4","varName":"","message":"Welcome to the server! ${tempVars(\"member\")}","storage":"0","varName2":"","name":"Send Message"}],"_id":"sqTRK"}]
